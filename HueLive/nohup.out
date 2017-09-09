@@ -1,0 +1,158 @@
+CALLING API ------------------------
+[66, 219, 93] TEMP RGB at temp 68.9
+[66, 219, 93] SETTING ON PANEL  0
+HERE [66, 219, 93]
+Setting panel 0 with rgb value  [0.25882352941176473, 0.8588235294117647, 0.36470588235294116]
+[201, 216, 255] CLOUD RGB
+[201, 216, 255] SETTING ON PANEL  1
+time rgb [255, 0, 255]
+[255, 0, 255] SETTING ON PANEL  2
+Traceback (most recent call last):
+  File "LED_Start.py", line 5, in <module>
+    LED.begin()
+  File "/home/ubuntu/rpiLED/Live/LED_Weather.py", line 25, in begin
+    time.sleep(self.user.api_call_interval)
+KeyboardInterrupt
+CALLING API ------------------------
+[66, 219, 93] TEMP RGB at temp 68.9
+[66, 219, 93] SETTING ON PANEL  0
+HERE [66, 219, 93]
+Setting panel 0 with rgb value  [0.25882352941176473, 0.8588235294117647, 0.36470588235294116]
+[201, 216, 255] CLOUD RGB
+[201, 216, 255] SETTING ON PANEL  1
+time rgb [255, 0, 255]
+[255, 0, 255] SETTING ON PANEL  2
+CALLING API --------------------------
+[199, 214, 255] CLOUD RGB
+[199, 214, 255] SETTING ON PANEL  1
+time rgb [255, 0, 255]
+[255, 0, 255] SETTING ON PANEL  2
+did something
+[197, 212, 255] CLOUD RGB
+[197, 212, 255] SETTING ON PANEL  1
+time rgb [255, 0, 255]
+[255, 0, 255] SETTING ON PANEL  2
+did something
+[194, 210, 254] CLOUD RGB
+[194, 210, 254] SETTING ON PANEL  1
+time rgb [255, 0, 255]
+[255, 0, 255] SETTING ON PANEL  2
+did something
+[192, 207, 254] CLOUD RGB
+[192, 207, 254] SETTING ON PANEL  1
+time rgb [255, 0, 255]
+[255, 0, 255] SETTING ON PANEL  2
+did something
+[189, 205, 253] CLOUD RGB
+[189, 205, 253] SETTING ON PANEL  1
+time rgb [255, 0, 255]
+[255, 0, 255] SETTING ON PANEL  2
+did something
+time rgb [255, 0, 255]
+[255, 0, 255] SETTING ON PANEL  2
+did something
+time rgb [255, 0, 255]
+[255, 0, 255] SETTING ON PANEL  2
+did something
+time rgb [255, 0, 255]
+[255, 0, 255] SETTING ON PANEL  2
+did something
+time rgb [255, 0, 255]
+[255, 0, 255] SETTING ON PANEL  2
+did something
+time rgb [255, 0, 255]
+[255, 0, 255] SETTING ON PANEL  2
+did something
+time rgb [255, 0, 255]
+[255, 0, 255] SETTING ON PANEL  2
+did something
+time rgb [255, 0, 255]
+[255, 0, 255] SETTING ON PANEL  2
+did something
+time rgb [255, 0, 255]
+[255, 0, 255] SETTING ON PANEL  2
+did something
+time rgb [255, 0, 255]
+[255, 0, 255] SETTING ON PANEL  2
+did something
+time rgb [255, 0, 255]
+[255, 0, 255] SETTING ON PANEL  2
+did something
+time rgb [255, 0, 255]
+[255, 0, 255] SETTING ON PANEL  2
+did something
+time rgb [255, 0, 255]
+[255, 0, 255] SETTING ON PANEL  2
+did something
+time rgb [255, 0, 255]
+[255, 0, 255] SETTING ON PANEL  2
+did something
+time rgb [255, 0, 255]
+[255, 0, 255] SETTING ON PANEL  2
+did something
+time rgb [255, 0, 255]
+[255, 0, 255] SETTING ON PANEL  2
+did something
+time rgb [255, 0, 255]
+[255, 0, 255] SETTING ON PANEL  2
+did something
+time rgb [255, 0, 255]
+[255, 0, 255] SETTING ON PANEL  2
+did something
+time rgb [255, 0, 255]
+[255, 0, 255] SETTING ON PANEL  2
+did something
+time rgb [255, 0, 255]
+[255, 0, 255] SETTING ON PANEL  2
+did something
+time rgb [255, 0, 255]
+[255, 0, 255] SETTING ON PANEL  2
+did something
+time rgb [255, 0, 255]
+[255, 0, 255] SETTING ON PANEL  2
+did something
+time rgb [255, 0, 255]
+[255, 0, 255] SETTING ON PANEL  2
+did something
+time rgb [255, 0, 255]
+[255, 0, 255] SETTING ON PANEL  2
+did something
+time rgb [255, 0, 255]
+[255, 0, 255] SETTING ON PANEL  2
+did something
+time rgb [255, 0, 255]
+[255, 0, 255] SETTING ON PANEL  2
+did something
+time rgb [255, 0, 255]
+[255, 0, 255] SETTING ON PANEL  2
+did something
+time rgb [255, 0, 255]
+[255, 0, 255] SETTING ON PANEL  2
+did something
+time rgb [255, 0, 255]
+[255, 0, 255] SETTING ON PANEL  2
+did something
+time rgb [255, 0, 255]
+[255, 0, 255] SETTING ON PANEL  2
+did something
+time rgb [255, 0, 255]
+[255, 0, 255] SETTING ON PANEL  2
+did something
+time rgb [255, 0, 255]
+[255, 0, 255] SETTING ON PANEL  2
+did something
+time rgb [255, 0, 255]
+[255, 0, 255] SETTING ON PANEL  2
+did something
+time rgb [255, 0, 255]
+[255, 0, 255] SETTING ON PANEL  2
+did something
+time rgb [255, 0, 255]
+[255, 0, 255] SETTING ON PANEL  2
+did something
+time rgb [255, 0, 255]
+[255, 0, 255] SETTING ON PANEL  2
+did something
+time rgb [255, 0, 255]
+[255, 0, 255] SETTING ON PANEL  2
+did something
